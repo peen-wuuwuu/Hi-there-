@@ -10,3 +10,5 @@ BaseDifficulty=0.65000000
 
 
 BEGINNERS: 1h Axe and bandages at the start are HIGHLY Recommended! Pair with a combat buddy and press spacebar to dodge!
+
+9/14/26- Added Mercenary Follower AI at certain checkpoints (will actually follow you!), Reduced cost from 1000 to 500
