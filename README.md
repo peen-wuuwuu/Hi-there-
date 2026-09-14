@@ -1,4 +1,4 @@
-Welcome! Map Rotations are limited to Demon Horde. Still a work in progress, trying to learn how this stuff works!From my understanding so far, these should affect spawn rates multiplied by each player present and Prestige difficulty modifier will be disabled.
+Welcome! Map Rotations are limited to Demon Horde. Still a work in progress, trying to learn how this stuff works! From my understanding so far, these should affect spawn rates multiplied by each player present and Prestige difficulty modifier will be disabled.
 
 [DemonHorde]
 
