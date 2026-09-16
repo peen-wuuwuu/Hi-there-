@@ -6,10 +6,15 @@ BEGINNERS: 1h Axe and bandages at the start are HIGHLY Recommended! Pair with a 
 Version 1.0
 
 Mercenaries
+
 -Mercenaries have now been converted to MercFollowers, who will follow the hiring player, engage in combat, then continue following when idle. However, in combat they will stay focused on the enemy near them even if the player is far away.
+
 -MercFollowers now have increased health on kill, regen, and cost 500g to purchase instead of the normal 1000g.
+
 -Updated MercFollower variants for each map (Feitoria, Grad, Mountain Peak, Taiga, Totenwald) in addition to Castello MercFollower
 
 Maps
+
 -Placed more MercFollowers in different sections of each map for team variety and availability
+
 -Replaced stock mercenary spawns with their modded counterparts
