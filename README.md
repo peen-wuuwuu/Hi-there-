@@ -1,5 +1,4 @@
-Welcome! Map Rotations are limited to Demon Horde. There will be AI mercenaries to purchase around the map to make it a little more beginner-friendly! They will engage in combat and follow the hiring player when idle. Still a work in 
-progress!
+Welcome! Map Rotations are limited to Demon Horde. Still a work in progress!
 
 
 BEGINNERS: 1h Axe and bandages at the start are HIGHLY Recommended! Pair with a combat buddy and press spacebar to dodge!
