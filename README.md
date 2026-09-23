@@ -11,7 +11,7 @@ BEGINNERS: Don't forget your bandages (Utility Tab)! Pair with a combat buddy an
 
 -MercFollowers now have increased health, regen, and cost 500g to purchase instead of the normal 1000g. Placed MercFollowers in different sections of each map for team variety and availability
 
--Added Hard Mode variants for Castello, Feitoria, and Grad (Modified objectives)
+-Added Hard Mode variants for Castello, Feitoria, Grad, Mt. Peak, Taiga (Modified for extra objectives/minibosses)
 
 
 **Balancing**
