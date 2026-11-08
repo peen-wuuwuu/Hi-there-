@@ -1,23 +1,17 @@
-Welcome! Map Rotations are limited to Demon Horde. Still a work in progress!
+# Demon Horde w/ Mercenary Followers **Version 1.9**
 
-BEGINNERS: Don't forget your bandages (Utility Tab)! Pair with a combat buddy and press spacebar to dodge!
+##  MERCENARY FOLLOWERS
+- Mercenaries now follow their hiring player, engage enemies, and regroup when idle.
+- Improved health and regeneration.
+- Hire for **500 gold** instead of 1,000.
+- Mercenaries are available throughout each map.
 
+##  MAP ROTATION
+- **Classic Maps:** Original Demon Horde maps with MercFollowers.
+- **Hard Mode:** Reworked maps featuring additional objectives and miniboss encounters.
+- **DefendCastello:** Custom fortress defense scenario against an ongoing demon invasion.
 
-**Version 1.5**
-
-**Maps/Mercenaries**
-
--Mercenaries have now been converted to MercFollowers, who will follow the hiring player, engage in combat, then continue following when idle. Updated: Improved MercFollower AI to better prioritize following their player over prolonged combat
-
--MercFollowers now have increased health, regen, and cost 500g to purchase instead of the normal 1000g. Placed MercFollowers in different sections of each map for team variety and availability
-
--Added Hard Mode variants for Castello, Feitoria, Grad, Mt. Peak, Taiga (Modified for extra objectives/minibosses)
-
-
-**Balancing**
-
--Increased Starting Gold from 500 to 800
-
--Increased Starting Skill Points from 5 to 10
-
--Disabled Prestige
+##  GAMEPLAY BALANCING
+- **Starting Gold:** 500 → 800
+- **Starting Skill Points:** 5 → 10
+- **Prestige:** Disabled
