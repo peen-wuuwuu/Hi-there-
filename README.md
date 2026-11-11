@@ -5,7 +5,7 @@
 - Improved health and regeneration.
 - Hire for **500 gold** instead of 1,000.
 - Mercenaries are available throughout each map.
-- **HIGHLY encouraged to have at least one or two with the team on harder maps.**
+- **Recommend having at least one or two with the team on harder maps.**
 
 ##  MAP ROTATION
 - **Classic Maps:** Original Demon Horde maps with MercFollowers.
