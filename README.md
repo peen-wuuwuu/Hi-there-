@@ -15,3 +15,6 @@
 - **Starting Gold:** 500 → 800
 - **Starting Skill Points:** 5 → 10
 - **Prestige:** Disabled
+
+## BUGS
+- Grad_Hard stage 7 is broken rn, avoid this map until further notice!
