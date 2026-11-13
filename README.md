@@ -14,7 +14,7 @@
 - Starting Skill Points: 5 → 10
 - Prestige: Disabled
 ## LATEST CHANGES
-- Grad_Hard now playable, Also restored elevator function
+- Grad_Hard now playable, Also restored elevator function. NOTE: the path to stage 6 after blowing up the door is currently blocked and a fix is in progress. to get around, exit the castle on the side to resume the level
 - Exponential fog adjusted in Grad, MtPeak, and Totenwald maps
-- DefendCastello fixed collision in some sections, decreased allies throughout the level
+- DefendCastello fixed collision in some sections, decreased allies throughout the level. NOTE: some assets are flipped backwards (some doors/ladders), fix in progress
 
